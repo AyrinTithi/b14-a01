@@ -1,0 +1,1 @@
+Add a new "Conference Schedule" section bellow the Secure Your Spot to the DevConf 2026 website. Use a modern design that matches the existing DevConf 2026 theme.
